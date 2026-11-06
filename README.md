@@ -6,10 +6,6 @@ pressure history**, using five degrees of freedom per node and first-order
 shear-deformation theory (FSDT). It includes general ply data, modal analysis,
 full-system Newmark integration, probe stress recovery, and numerical checks.
 
-The Friedlander/cubic pressure definitions follow the same mathematical pulse
-forms used in the supplied DYNAblast 2.0 code. This is a separate FEM model;
-it does not reproduce DYNAblast's GUI, all calibration options, or its nonlinear
-plate formulations. There is no dependency on the DYNAblast installation.
 
 ## Run in MATLAB
 
